@@ -1,5 +1,5 @@
 1. Przygotować formularz zawierający:
-imię, nazwisko , adres, miasto , kod pocztowy , pesel, datę urodzenia
+imię, nazwisko , adres, miasto , kod pocztowy , pesel, datę urodzenia , płeć
 2. link do piaskownicy : https://codepen.io/pen 
 na 10.11.2023r. 
 
